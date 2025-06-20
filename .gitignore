@@ -32,3 +32,6 @@ next-env.d.ts
 /test/
 jest.config.js
 jest.setup.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
